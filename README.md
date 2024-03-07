@@ -1,0 +1,6 @@
+--[ Hi, I’m @goth-witch
+- I’m interested in LUA
+- I’m currently learning how to make and deploy my own exploits
+- Discord is @Goth_VVitch
+- Pronouns: She | They
+- Fun fact: im better at welding than i am coding.]--
